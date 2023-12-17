@@ -1,0 +1,8 @@
+Sr No.,profile_pic,ratio_numlen_username,len_fullname,ratio_numlen_fullname,sim_name_username,len_desc,extern_url,private,num_posts,num_followers,num_following
+5,Yes,0,4,0,Partial match,81,Yes,No,344,669987,150
+48,Yes,0,1,0,No match,4,No,No,91,369,546
+100,Yes,0.38,1,0,No match,0,No,No,21,128,636
+114,Yes,0.33,1,0,Partial match,0,No,No,8,88,76
+34,Yes,0.17,1,0,No match,0,No,No,12,361,562
+78,Yes,0.43,1,0,Partial match,0,No,No,2,10,24
+41,Yes,0,2,0,Full match,84,Yes,No,932,1027419,293
